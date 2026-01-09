@@ -1,4 +1,4 @@
-# 📊 Budget Monitoring & Variance Analysis – Power BI
+# Budget Monitoring & Variance Analysis – Power BI
 
 This project presents an executive-style Power BI dashboard designed to evaluate **financial performance by comparing actual income and expenses against planned budgets**. Using monthly project-level data from **2019 to 2024**, the dashboard highlights **variance patterns, budget utilization, and long-term trends**, enabling consistent monitoring of financial health across projects and time periods.
 
