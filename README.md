@@ -11,7 +11,7 @@ View my PowerBI report here: [🔗](https://app.powerbi.com/view?r=eyJrIjoiMzk2Y
 
 ---
 
-## 📌 Contents
+## Contents
 
 - [Dataset and Financial Context](#dataset-and-financial-context)
 - [Financial Concepts and Formulas Applied](#financial-concepts-and-formulas-applied)
@@ -88,7 +88,7 @@ To assess how performance evolves over time, the dashboard supports direct compa
 
 ![September 2023 View](screenshots/p1054_sep_2023.jpeg)
 
-![September 2023 View](screenshots/p1054_sep_2024.jpeg)
+![September 2024 View](screenshots/p1054_sep_2024.jpeg)
 
 Comparing the same month across years helps isolate performance changes without seasonal effects influencing the analysis.
 
