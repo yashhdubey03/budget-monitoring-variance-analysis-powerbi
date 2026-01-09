@@ -5,10 +5,13 @@ This project presents an executive-style Power BI dashboard designed to evaluate
 The focus of this project is not only to display financial data, but to explain **how performance deviates from expectations, by how much, and why those deviations matter**.
 
 ---
-## Contents
+
+## 📌 Contents
 
 - [Dataset and Financial Context](#dataset-and-financial-context)
 - [Financial Concepts and Formulas Applied](#financial-concepts-and-formulas-applied)
+  - [Variance](#variance)
+  - [Budget Utilization](#budget-utilization)
 - [Dashboard Overview](#dashboard-overview)
 - [Executive Views and Year Comparison](#executive-views-and-year-comparison)
 - [Variance Analysis in Practice (Project 1054)](#variance-analysis-in-practice-project-1054)
