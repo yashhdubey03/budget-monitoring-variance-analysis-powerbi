@@ -1,4 +1,4 @@
-# Budget Monitoring & Variance Analysis – Power BI
+# 📊 Budget Monitoring & Variance Analysis – Power BI
 
 This project presents an executive-style Power BI dashboard designed to evaluate **financial performance by comparing actual income and expenses against planned budgets**. Using monthly project-level data from **2019 to 2024**, the dashboard highlights **variance patterns, budget utilization, and long-term trends**, enabling consistent monitoring of financial health across projects and time periods.
 
@@ -11,10 +11,9 @@ The focus of this project is not only to display financial data, but to explain 
 The dataset consists of **monthly financial records for multiple projects**, where each record includes both **budgeted** and **actual** values for income and expenses. This structure allows direct comparison between planned targets and realized performance.
 
 Because the data spans several years, it supports:
-
-* month-level performance tracking
-* year-over-year comparison for the same project
-* identification of recurring patterns versus one-time deviations
+- Month-level performance tracking  
+- Year-over-year comparison for the same project  
+- Identification of recurring patterns versus one-time deviations  
 
 This makes the dataset suitable for both short-term monitoring and longer-term financial assessment.
 
@@ -28,29 +27,22 @@ The dashboard is built around two core financial concepts: **variance** and **bu
 
 Variance measures the deviation between actual performance and budgeted expectations.
 
-For income, variance is calculated as:
-**Income Variance = Actual Income − Budgeted Income**
+- **Income Variance = Actual Income − Budgeted Income**  
+  A negative value indicates revenue underperformance, while a positive value indicates income exceeding expectations.
 
-A negative value indicates revenue underperformance, while a positive value indicates income exceeding expectations.
-
-For expenses, variance is calculated as:
-**Expense Variance = Budgeted Expense − Actual Expense**
-
-In this context, a positive value reflects cost savings, whereas a negative value indicates overspending.
+- **Expense Variance = Budgeted Expense − Actual Expense**  
+  A positive value reflects cost savings, whereas a negative value indicates overspending.
 
 To standardize comparisons across projects and time periods, percentage variance is also used:
-**Variance (%) = (Actual − Budget) ÷ Budget**
 
-This allows meaningful comparison even when budget sizes differ significantly.
+- **Variance (%) = (Actual − Budget) ÷ Budget**
 
----
 
 ### Budget Utilization
 
 Budget utilization provides essential context by showing how much of the allocated budget has already been consumed.
 
-It is calculated as:
-**Budget Utilization (%) = Actual ÷ Budget**
+- **Budget Utilization (%) = Actual ÷ Budget**
 
 A variance may appear small in isolation, but high budget utilization indicates limited remaining financial flexibility. For this reason, variance and utilization are always interpreted together in the dashboard.
 
@@ -61,11 +53,10 @@ A variance may appear small in isolation, but high budget utilization indicates 
 The dashboard is divided into **Income** and **Expense** sections, each designed to evaluate performance from a different financial perspective.
 
 Each section includes:
-
-* actual vs budget comparison
-* variance percentage indicators
-* budget utilization visuals
-* historical trend charts across multiple years
+- Actual vs budget comparison  
+- Variance percentage indicators  
+- Budget utilization visuals  
+- Historical trend charts across multiple years  
 
 Interactive filters allow users to analyze performance by **year, month, and project ID**, supporting both high-level summaries and detailed project-level reviews.
 
@@ -75,11 +66,11 @@ Interactive filters allow users to analyze performance by **year, month, and pro
 
 To assess how performance evolves over time, the dashboard supports direct comparison of the same project and month across different years.
 
-**September 2023 View**
-(screenshot: `dashboard_sep_2023.png`)
+**September 2023 View**  
+_(screenshot: `dashboard_sep_2023.png`)_
 
-**September 2024 View**
-(screenshot: `dashboard_sep_2024.png`)
+**September 2024 View**  
+_(screenshot: `dashboard_sep_2024.png`)_
 
 Comparing the same month across years helps isolate performance changes without seasonal effects influencing the analysis.
 
@@ -96,10 +87,9 @@ In September 2024, actual income increased to **$16,732**, but the budget rose m
 Expense behavior showed a stronger shift. In September 2023, actual expenses were **$5,005** on a budget of **$6,300**, corresponding to **79.44% budget utilization**. In September 2024, expenses increased to **$7,048** against a budget of **$7,600**, pushing utilization to **92.74%**. This represents an increase of over **13 percentage points** in expense utilization year over year.
 
 Taken together:
-
-* income increased by roughly **20%**
-* expenses increased by more than **40%**
-* the gap between revenue and costs narrowed
+- Income increased by roughly **20%**  
+- Expenses increased by more than **40%**  
+- The gap between revenue and costs narrowed  
 
 This indicates a **compression of the financial margin**, where rising costs offset income growth and increase financial risk.
 
@@ -115,15 +105,12 @@ By continuously tracking variance and budget utilization across projects and per
 
 ## Tools Used
 
-* Power BI for data modeling and visualization
-* DAX for variance and utilization calculations
-* Excel as the data source
+- Power BI  
+- DAX for variance and utilization calculations  
+- Excel as the data source  
 
 ---
 
-### Final note
+### Final Note
 
 This project emphasizes **financial interpretation supported by numbers**, not just visual presentation. Every metric and visual was selected to answer a specific question about performance, efficiency, and risk.
-
-This version is **clean, descriptive, numeric, and technically correct**.
-
