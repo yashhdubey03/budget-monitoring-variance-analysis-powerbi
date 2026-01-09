@@ -6,6 +6,11 @@ The focus of this project is not only to display financial data, but to explain 
 
 ---
 
+## Live Dashboard (Power BI)
+View my PowerBI report here: [🔗](https://app.powerbi.com/view?r=eyJrIjoiMzk2YmI5ODEtMzU2Ni00NDg3LTkxMGUtYTMyZWFlMjZkMWNjIiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9)
+
+---
+
 ## 📌 Contents
 
 - [Dataset and Financial Context](#dataset-and-financial-context)
