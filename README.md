@@ -113,4 +113,4 @@ By continuously tracking variance and budget utilization across projects and per
 
 ### Final Note
 
-This project emphasizes **financial interpretation supported by numbers**, not just visual presentation. Every metric and visual was selected to answer a specific question about performance, efficiency, and risk.
+This project is designed to demonstrate a structured approach to financial analysis using real, comparable data. Each metric and visual has been intentionally selected to support clear evaluation of income performance, expense behavior, and alignment with budget expectations across projects and time periods. The emphasis is on translating numerical differences into meaningful insights that support monitoring, comparison, and more informed financial planning decisions rather than simply presenting aggregated figures.
